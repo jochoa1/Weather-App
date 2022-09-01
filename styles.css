@@ -60,3 +60,11 @@ h1.temp {
 ::placeholder {
     color: rgb(172, 164, 164);
 }
+
+.description {
+    text-transform: capitalize;
+}
+
+.icon {
+    margin: -15px 0px;
+}
