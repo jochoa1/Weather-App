@@ -68,3 +68,9 @@ h1.temp {
 .icon {
     margin: -15px 0px;
 }
+
+.weather.loading{
+    visibility: hidden;
+    max-height: 5px;
+    position: relative;
+}
