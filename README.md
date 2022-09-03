@@ -1,2 +1,2 @@
 # Weather-App
-Weather app that is built using HTML, CSS, and Javascript. Using a weather API that provides data.
+Weather app is a page that is built using HTML, CSS, and Javascript. Using the OpenWeather API to provide real time data of different cities around the world.
